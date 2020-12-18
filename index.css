@@ -1,0 +1,16 @@
+h1{
+    color:green;
+}
+#list{
+    border: 2px solid black;
+    border-radius: 5%;
+    box-shadow: grey 10px 5px;
+    background-color: blanchedalmond;
+    height: 500px;
+    width: 500px;
+}
+#myDiv{
+    margin: 25px;
+    
+
+}
